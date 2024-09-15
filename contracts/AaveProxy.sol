@@ -13,29 +13,34 @@ contract AaveProxy {
      * @param account The address of the account to query
      * @return The amount of rewards earned by the account
      */
-    function earned(address account) public view returns (uint256);
+    function earned(address account) public view returns (uint256) {
+    }
 
     /**
      * @dev Stake a specified amount of tokens
      * @param amount The amount of tokens to stake
      */
-    function stake(uint256 amount) external;
+    function stake(uint256 amount) external {
+    }
 
     /**
      * @dev Withdraw a specified amount of tokens from the stake
      * @param amount The amount of tokens to withdraw
      */
-    function withdraw(uint256 amount) external;
+    function withdraw(uint256 amount) external {
+    }
 
     /**
      * @dev Get rewards
      * @param isStake A boolean, possibly used to decide whether to restake the rewards directly
      */
-    function getReward(bool isStake) external;
+    function getReward(bool isStake) external {
+    }
 
     /**
      * @dev Register a referrer
      * @param referrer The address of the referrer
      */
-    function register(address referrer) external;
+    function register(address referrer) external {
+    }
 }
