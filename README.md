@@ -1,6 +1,4 @@
-# AIBot Overview
-
-## Introduction
+# AIBot
 
 AIBot is a groundbreaking on-chain decentralized arbitrage project powered by advanced AI algorithms. It leverages artificial intelligence to identify and execute profitable trading opportunities across various decentralized exchanges and liquidity pools. By utilizing smart contracts and cutting-edge machine learning techniques, AIBot aims to maximize returns while maintaining the principles of decentralization and transparency inherent in blockchain technology.
 
